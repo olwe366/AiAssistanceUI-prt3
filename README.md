@@ -165,6 +165,11 @@ dotnet run --project AiAssistanceUI.csproj
 3. Set `AiAssistanceUI` as startup project
 4. Press F5 to build and run
 
+### Troubleshooting
+- If speech features fail, verify that your Windows speech components are enabled.
+- If tasks do not persist, check write permissions for the application data directory.
+- If startup is slow on first run, allow package restore and initial database creation to complete.
+
 ## 📖 Usage Guide
 
 ### Quick Start
