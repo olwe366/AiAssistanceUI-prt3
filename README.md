@@ -385,6 +385,11 @@ We welcome contributions! Please follow these guidelines:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## 📌 Documentation Notes
+- Added a quick-start walkthrough for first-time users.
+- Added troubleshooting guidance for common setup and runtime issues.
+- Added a daily security habits checklist to reinforce core practices.
+
 ## 🙏 Acknowledgments
 
 - **System.Speech**: For speech synthesis and recognition capabilities
