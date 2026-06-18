@@ -198,6 +198,12 @@ The application opens with the Chat tab active, featuring a welcome message and 
 "About malware protection"
 ```
 
+### Daily Security Habits
+- Use a password manager and unique passwords for every account.
+- Enable multi-factor authentication for email, banking, and social accounts.
+- Keep operating system and browser updates enabled.
+- Verify links and sender identity before sharing personal information.
+
 #### Personalization
 ```
 "My name is [YourName]"
