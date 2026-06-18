@@ -167,6 +167,12 @@ dotnet run --project AiAssistanceUI.csproj
 
 ## 📖 Usage Guide
 
+### Quick Start
+1. Open the app and go to the **Chat** tab.
+2. Ask a cybersecurity question (example: "How can I improve password safety?").
+3. Add one security task in the **Tasks** tab.
+4. Run one quiz round in the **Quiz** tab to check your understanding.
+
 ### Getting Started
 The application opens with the Chat tab active, featuring a welcome message and quick-start tips.
 
