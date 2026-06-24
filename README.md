@@ -165,7 +165,18 @@ dotnet run --project AiAssistanceUI.csproj
 3. Set `AiAssistanceUI` as startup project
 4. Press F5 to build and run
 
+### Troubleshooting
+- If speech features fail, verify that your Windows speech components are enabled.
+- If tasks do not persist, check write permissions for the application data directory.
+- If startup is slow on first run, allow package restore and initial database creation to complete.
+
 ## 📖 Usage Guide
+
+### Quick Start
+1. Open the app and go to the **Chat** tab.
+2. Ask a cybersecurity question (example: "How can I improve password safety?").
+3. Add one security task in the **Tasks** tab.
+4. Run one quiz round in the **Quiz** tab to check your understanding.
 
 ### Getting Started
 The application opens with the Chat tab active, featuring a welcome message and quick-start tips.
@@ -186,6 +197,12 @@ The application opens with the Chat tab active, featuring a welcome message and 
 "Explain phishing"
 "About malware protection"
 ```
+
+### Daily Security Habits
+- Use a password manager and unique passwords for every account.
+- Enable multi-factor authentication for email, banking, and social accounts.
+- Keep operating system and browser updates enabled.
+- Verify links and sender identity before sharing personal information.
 
 #### Personalization
 ```
@@ -367,6 +384,11 @@ We welcome contributions! Please follow these guidelines:
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 📌 Documentation Notes
+- Added a quick-start walkthrough for first-time users.
+- Added troubleshooting guidance for common setup and runtime issues.
+- Added a daily security habits checklist to reinforce core practices.
 
 ## 🙏 Acknowledgments
 
